@@ -2,4 +2,6 @@ Hi this is pull.txt
 new line added in pullfile.
 
 
-new line add for pull file, so that 
+new line add for pull file, so that
+
+delete the above line 
