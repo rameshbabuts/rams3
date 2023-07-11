@@ -3,4 +3,7 @@ new line added in pullfile.
 
 this is modified file in local repository
 
-this file is neleted. 
+this file is neleted.
+
+
+this file is in r1 branch pull.txt file
